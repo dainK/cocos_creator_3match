@@ -6,7 +6,7 @@ export class GameGlobal extends Component {
     static col : number = 7;
     static row : number = 9;
     static offset : number = 1;
-    static size :  number = 85;
+    static size :  number = 80;
 }
 
 export enum MatchType {
